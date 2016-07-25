@@ -1,0 +1,5 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Delegates\MulticastDelegate\MulticastDelegate\bin\Debug\MulticastDelegate.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Delegates\MulticastDelegate\MulticastDelegate\bin\Debug\MulticastDelegate.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Delegates\MulticastDelegate\MulticastDelegate\bin\Debug\MulticastDelegate.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Delegates\MulticastDelegate\MulticastDelegate\obj\Debug\MulticastDelegate.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Delegates\MulticastDelegate\MulticastDelegate\obj\Debug\MulticastDelegate.pdb

@@ -1,0 +1,5 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Delegates\SingleCastDelegatewithparameters\SingleCastDelegatewithparameters\bin\Debug\SingleCastDelegatewithparameters.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Delegates\SingleCastDelegatewithparameters\SingleCastDelegatewithparameters\bin\Debug\SingleCastDelegatewithparameters.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Delegates\SingleCastDelegatewithparameters\SingleCastDelegatewithparameters\bin\Debug\SingleCastDelegatewithparameters.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Delegates\SingleCastDelegatewithparameters\SingleCastDelegatewithparameters\obj\Debug\SingleCastDelegatewithparameters.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Delegates\SingleCastDelegatewithparameters\SingleCastDelegatewithparameters\obj\Debug\SingleCastDelegatewithparameters.pdb
